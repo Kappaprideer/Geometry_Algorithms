@@ -1,4 +1,4 @@
-,Punkty,det_2x2,det_3x3,Numpy_det_2x2,Numpy_det_3x3
-0,lewo,49832,49832,49832,49832
-1,prawo,50168,50168,50168,50168
-2,środek,0,0,0,0
+Punkty,det_2x2,det_3x3,Numpy_det_2x2,Numpy_det_3x3
+lewo,49881,49881,49881,49881
+prawo,50119,50119,50119,50119
+środek,0,0,0,0
