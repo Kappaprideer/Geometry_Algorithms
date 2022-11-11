@@ -1,0 +1,7 @@
+1. Zadania maja miec animacje jak działa tworzenie danej otoczki. 
+2. Nie wykorzysytwać funkcji trygonometrycznych. 
+3. Należy liczyć czasy w odniesieniu do wzorów aby porównać algorytm Jarvisa oraz algorytm Grahama. 
+4. Czas jest liczony bez animacji algorytmu. 
+5. 
+6. Dodać sekundy do wykresów czassu,
+7. Zmienić funkcje do liczenia czasu aby nie było w niej ifów z generowaniem wykresów
