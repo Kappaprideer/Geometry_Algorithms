@@ -1,0 +1,9 @@
+opisać jak są przechowywane początki oraz końce odcinków
+
+napisać czy program uwzględnia sytuację gdy dane przecięcie jest wykrywane wielokrotnie
+
+najlepiej posługiwać się indeksami, czy mamy już taką parę odcinków , które się przecinają 
+
+zobaczyć jak dużą rolę odgrywają tutaj struktury danych, w których są one przechowywwane, dobrze jest zaimplementować ich trochę żeby porównać,
+
+struktury danych można zaimplementować z biblioteki, nie trzeba samemu pisać, ale trzeba wiedzieć co to jest 
